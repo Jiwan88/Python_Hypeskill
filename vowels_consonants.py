@@ -7,5 +7,5 @@ for i, _ in enumerate(word):
     elif word[i].isalpha() and word[i] not in vowel:
         print("consonant")
     else:
-        exit()
+        break
 
