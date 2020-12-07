@@ -1,2 +1,2 @@
-# Python_Hypeskill
-The daily challenges and mini-projects on python of hyperskills.org
+# Python_Hyperskill
+The daily challenges and mini-projects on python of www.hyperskill.org
